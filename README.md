@@ -20,6 +20,7 @@ ESCRIBIR EN LA TERMINAL DE SWI-prolog:
 ?- ['C:/Inteligencia Artificial/Archivo1.pl'].
 
 ?- go.
+
 El animal tiene la siguiente caracteristica?: boca_pequena? (yes/no) yes.
 
 El animal tiene la siguiente caracteristica?: vive_en_rios_de_america_del_sur? (yes/no) |: no.
